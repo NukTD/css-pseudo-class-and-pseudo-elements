@@ -1,1 +1,12 @@
 /* Start coding here */
+.registration-form #id {
+  color: lightgray;
+}
+
+.registration-form input:hover {
+  border: solid khaki;
+}
+
+.registration-form button:hover {
+  background-color: pink;
+}
